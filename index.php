@@ -1,5 +1,4 @@
-﻿<!doctype html>
-<html lang="en">
+<?php
 <head>
 	<meta charset="UTF-8">
 	<title>sistema de venta</title>
@@ -45,4 +44,4 @@
     <center><img src="imagen5.png" width="907" height="499"></center></img>
     </table>
 </body>
-</html>
+<?
