@@ -1,9 +1,4 @@
 <?php
-header("Location: principal.php");
-?>
-=======
-<!DOCTYPE html>
-<html lang="en">
 <head>
 	<meta charset="UTF-8">
 	<title>sistema de venta</title>
@@ -49,5 +44,5 @@ header("Location: principal.php");
     <center><img src="imagen5.png" width="907" height="499"></center></img>
     </table>
 </body>
-</html>
+<?
 
