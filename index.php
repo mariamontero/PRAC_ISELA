@@ -50,4 +50,4 @@ header("Location: principal.php");
     </table>
 </body>
 </html>
->>>>>>> 2e9bab79b7d46bcb10d2750db9160d4a2cf19e57
+
