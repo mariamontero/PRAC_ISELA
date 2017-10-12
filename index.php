@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 header("Location: principal.php");
 ?>
